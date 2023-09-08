@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kjetilba
-- 👀 I’m interested in IoT and technology in general. 
+- 👀 I’m interested in programming and technology in general 
 - 🌱 I’m currently an IT student in Oslo, Norway
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web and iOS projects
 - 📫 How to reach me: kjetilba@gmail.com
 
 <!---
